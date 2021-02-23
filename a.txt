@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Some fixes to a.txt
-=======
 Some random changes a.txt 
->>>>>>> c66e23259d6ed5420bb02e4e602a9334ba370c11
+Some fixes to a.txt
